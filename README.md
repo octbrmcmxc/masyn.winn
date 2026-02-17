@@ -214,16 +214,4 @@ This project is tested with BrowserStack
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-## Contributors
-
-<a href="https://github.com/SujalXplores/v0.diy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SujalXplores/v0.diy" />
-</a>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=SujalXplores/v0.diy&type=Date)](https://star-history.com/#SujalXplores/v0.diy&Date)
-
-> **⭐ If you found this project helpful, please consider giving it a star!**
