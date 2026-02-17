@@ -25,6 +25,8 @@
 
 ## Overview
 
+MASYN WINN #0 !!
+
 v0.diy is a self-hosted, open-source alternative to [v0.app](https://v0.app) that transforms natural language descriptions into production-ready React components. Built with the latest web technologies and designed for developers who want full control over their AI-assisted development workflow.
 
 ## Features
